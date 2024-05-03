@@ -11,6 +11,7 @@ This repo contains all of our code and .csv files that we processed.
 - Silhouette word cloud: https://towardsdatascience.com/generate-meaningful-word-clouds-in-python-5b85f5668eeb
 - Silhouette maker: https://www.fotor.com/features/silhouette-maker/
 - Matplotlib color maps: https://matplotlib.org/stable/users/explain/colors/colormaps.html
+- ChatGPT: Helping along the way with putting techniques together and answering questions for comprehension
 
 # Sentiment Analysis
 - 
