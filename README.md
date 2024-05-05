@@ -5,6 +5,9 @@ This repo contains all of our code and .csv files that we processed.
 
 # Sources and references used for each part of the project:
 
+# Lyrics
+- Lyrics: https://genius.com/api-clients
+
 # Word Clouds
 - Cleaning text: https://github.com/m3redithw/data-science-visualizations/blob/main/WordClouds/prepare.py 
 - TF-IDF & word cloud: https://ayselaydin.medium.com/6-creating-a-word-cloud-using-tf-idf-in-python-2554742d86d9
@@ -14,7 +17,7 @@ This repo contains all of our code and .csv files that we processed.
 - ChatGPT: Helping along the way with putting techniques together and answering questions for comprehension
 
 # Sentiment Analysis
-- 
+- ChatGPT: Helped with plotting graphs
 
 # RNN
 - 
